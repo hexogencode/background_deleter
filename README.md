@@ -1,7 +1,7 @@
 # Background deleter
 
 
-## Removes image background when user enters a link on it
+## Removes image background when user enters a link on image
 
 The following Python libraries were used in this project:
 * requests, os and PIL to manipulate with image link and file
