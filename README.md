@@ -9,3 +9,4 @@ The following Python libraries were used in this project:
 
 The main functionality is in one function process_image(). However, to work with rembg I had to create a temporary file that appeared in the process of removing the background.
 A small interface made for ease of use of the program. Using a wile loop, the user can enter links endlessly until writes 'stop'.
+
